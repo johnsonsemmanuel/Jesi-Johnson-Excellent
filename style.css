@@ -2,3 +2,25 @@ h1 {
   font-size: 40px;
   color: blue;
 }
+
+li{
+  color: blueviolet;
+}
+
+.johnson{
+  color: green;
+}
+
+.heading{
+  text-decoration: underline;
+}
+
+.heading-2{
+  color: aqua;
+  text-decoration: line-through;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
